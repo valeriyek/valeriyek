@@ -1,24 +1,33 @@
 # Привет! 👋 Меня зовут Валерий
 
-Java разработчик  
-Россия  
-Интересуюсь микросервисами, архитектурой и асинхронными системами  
+Разрабатываю решения, которые упрощают жизнь пользователям и бизнесу.  
 
 ---
 
-### 🛠️ Мой стек:
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-grey)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
-![Kafka](https://img.shields.io/badge/Kafka-black)
+## О себе
+
+Выбрал разработку, потому что в ней сочетаются **системность, логика и творчество**, позволяет решать широкий круг задач.
+Мне нравится проходить путь от формулировки задачи до проектирования архитектуры и написания кода.  
+В работе ценю **чистоту кода**, **продуманную архитектуру** и **эффективные решения**.  
+
 
 ---
 
-### Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valeriyek&show_icons=true&theme=tokyonight)
+## Стек технологий
+
+- Java 21 • Spring Boot • Spring Cloud • Spring MVC • Spring Data JPA • Spring Security • OpenFeign  
+- PostgreSQL • Oracle DB • MySQL • JDBC • Hibernate • MapStruct  
+- Kafka • Docker • Docker Compose • Git • Maven 
+- JUnit 5 • Mockito • Testcontainers  
+- REST API • JSON • XML • Swagger/OpenAPI  
 
 ---
+<!--
+## 📊 GitHub Статистика
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valeriyek&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriyek&layout=compact&theme=tokyonight)
+
+---
+-->
 Связь: [Telegram](https://t.me/valeriikoval) 
