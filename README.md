@@ -18,8 +18,7 @@
 - Java 21 • Spring Boot • Spring Cloud • Spring MVC • Spring Data JPA • Spring Security • OpenFeign  
 - PostgreSQL • Oracle DB • MySQL • JDBC • Hibernate • MapStruct  
 - Kafka • Docker • Docker Compose • Git • Maven 
-- JUnit 5 • Mockito • Testcontainers  
-- REST API • JSON • XML • Swagger/OpenAPI  
+- JUnit 5 • Mockito • REST API • JSON • XML • Swagger/OpenAPI  
 
 ---
 <!--
