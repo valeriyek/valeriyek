@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Валерий
 
-<!--
-**valeriyek/valeriyek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java разработчик  
+Россия  
+Интересуюсь микросервисами, архитектурой и асинхронными системами  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек:
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-green)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-grey)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED)
+![Kafka](https://img.shields.io/badge/Kafka-black)
+
+---
+
+### Статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valeriyek&show_icons=true&theme=tokyonight)
+
+---
+
+Связь: [Telegram](https://t.me/valeriikoval) 
