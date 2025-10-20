@@ -24,10 +24,10 @@
 
 ## Стек технологий
 
-- Java 21 • Spring Boot • Spring Cloud • Spring MVC • Spring Data JPA • Spring Security • OpenFeign  
-- PostgreSQL • Oracle DB • MySQL • JDBC • Hibernate • MapStruct  
-- Kafka • Docker • Docker Compose • Git • Maven 
-- JUnit 5 • Mockito • REST API • JSON • XML • Swagger/OpenAPI  
+- Java 21 • Spring Boot • Spring Cloud • Spring MVC • Spring JDBC • Spring Data JPA • Spring Security 
+- PostgreSQL • Oracle DB • MySQL • JDBC • Hibernate • MapStruct • JSON • XML  
+- Kafka • RabbitMQ • Docker • Docker Compose • Git • Maven • OpenFeign  
+- JUnit 5 • Mockito • REST API • Swagger/OpenAPI  
 
  <!-- --- -->
 <!--
