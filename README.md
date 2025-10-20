@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-## Valeriy, Java-developer
+## Валера, Java-разработчик
 
  <!--  ---
 
